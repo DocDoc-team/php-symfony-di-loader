@@ -1,6 +1,6 @@
 # Symfony DI component loader
 
-Forked from https://github.com/DocDoc-team/php-symfony-di-loader
+Forked from https://github.com/alexpts/php-symfony-di-loader
 
 [![Build Status](https://travis-ci.org/DocDoc-team/php-symfony-di-loader.svg?branch=master)](https://travis-ci.org/DocDoc-team/php-symfony-di-loader)
 [![Code Coverage](https://scrutinizer-ci.com/g/DocDoc-team/php-symfony-di-loader/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/DocDoc-team/php-symfony-di-loader/?branch=master)
