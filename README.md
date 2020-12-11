@@ -7,7 +7,7 @@ Forked from https://github.com/DocDoc-team/php-symfony-di-loader
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/DocDoc-team/php-symfony-di-loader/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/DocDoc-team/php-symfony-di-loader/?branch=master)
 
 
-Simple loader for symfony [DependencyInjection component]( https://symfony.com/doc/current/components/dependency_injection.html)
+A simple loader for symfony [DependencyInjection component]( https://symfony.com/doc/current/components/dependency_injection.html)
 
 ### Install
 `composer require docdoc/symfony-di-loader`
