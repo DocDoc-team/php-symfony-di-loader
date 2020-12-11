@@ -1,0 +1,9 @@
+services:
+    _defaults:
+        autowire: true
+        autoconfigure: false
+        public: true
+
+    Symfony\Component\Config\FileLocator: ~
+    DocDoc\SymfonyDiLoader\FactoryContainer:
+        arguments: [Symfony\Component\DependencyInjection\Loader\YamlFileLoader, '@Symfony\Component\Config\FileLocator']
